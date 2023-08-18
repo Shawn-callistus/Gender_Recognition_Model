@@ -20,5 +20,6 @@ The CNN model architecture is similar to the one described earlier, with slight 
 * **Dense Layers:** Fully connected layers further process the features and make predictions.
 
 * **Output Layer:** The output layer predicts the gender based on the real-time camera feed.
+
 ## Dataset
 The model was trained on a dataset containing labeled facial images of both male and female individuals. The dataset was divided into training and testing sets to ensure the model's performance is accurately assessed.
