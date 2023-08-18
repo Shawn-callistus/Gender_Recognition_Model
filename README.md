@@ -6,5 +6,4 @@
 * **Model Prediction:** Feed the preprocessed images into the trained model and obtain predictions for gender.
 * **Display Results:** Display the camera feed with gender predictions overlayed in real-time.
 ## Dataset
-
-The model was trained on a dataset containing labeled facial images of both male and female individuals. The dataset was divided into training, validation, and testing sets to ensure the model's performance is accurately assessed.
+The model was trained on a dataset containing labeled facial images of both male and female individuals. The dataset was divided into training and testing sets to ensure the model's performance is accurately assessed.
